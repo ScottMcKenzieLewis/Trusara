@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Trusara.Domain/Trusara.Domain.csproj" Id="497ef5ec-b1d5-4dd5-8ce3-1b82f3942884" />
+  <Project Path="src/Trusara.Plc.Abstractions/Trusara.Plc.Abstractions.csproj" Id="40739124-70ba-4010-9693-5c5df1e16b35" />
+  <Project Path="src/Trusara.Plc.Simulated/Trusara.Plc.Simulated.csproj" Id="c6d6cee4-af17-4167-b9f0-3c7580318d9f" />
+  <Project Path="tests/Trusara.Domain.Tests/Trusara.Domain.Tests.csproj" Id="4c9f932a-04b5-458d-a995-102f3b369a42" />
+</Solution>
