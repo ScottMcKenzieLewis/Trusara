@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Trusara.Plc.Abstractions\Trusara.Plc.Abstractions.csproj" />
+  </ItemGroup>
+
 </Project>
